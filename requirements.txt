@@ -2,3 +2,4 @@ flask
 black
 xgboost
 sklearn
+jupyterlab
